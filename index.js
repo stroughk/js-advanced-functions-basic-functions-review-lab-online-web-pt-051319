@@ -1,4 +1,4 @@
 // Your code here
-function saturdayFun() {
-  console.log("Hello")
+function saturdayFun(activity="roller-skate") {
+  return 'This Saturday, I want to ${activity}!'
 }
